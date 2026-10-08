@@ -1,0 +1,5 @@
+Model,Runs,Test accuracy,Test macro F1,Relit accuracy,Relit macro F1,Lighting drop
+MobileNet RGB,3,89.9 ± 0.6,88.7 ± 0.9,85.6 ± 0.9,84.4 ± 0.9,4.4 ± 0.3
+MobileNet HSV,3,82.3 ± 2.6,80.4 ± 2.6,64.5 ± 2.2,61.6 ± 2.3,17.8 ± 0.8
+Scratch RGB,3,80.8 ± 3.3,76.7 ± 2.8,37.3 ± 1.1,32.3 ± 0.8,43.5 ± 2.8
+Scratch HSV,3,92.4 ± 2.8,91.2 ± 3.4,41.5 ± 3.8,39.3 ± 3.7,50.9 ± 1.0
